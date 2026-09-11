@@ -12,7 +12,7 @@ Builder from Poland. I ship products with TypeScript, Next.js, Expo, and AI.
 
 ## Stack
 
-TypeScript · Next.js · Expo · React · Node · AI / LLMs
+TypeScript · Next.js · Expo · React · AI / LLMs
 
 ## Links
 
